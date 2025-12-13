@@ -1,0 +1,67 @@
+borough,flow,value
+City of London,in,3258
+City of London,out,2045
+Barking and Dagenham,in,22361
+Barking and Dagenham,out,23320
+Barnet,in,39562
+Barnet,out,39624
+Bexley,in,17878
+Bexley,out,17506
+Brent,in,41462
+Brent,out,43688
+Bromley,in,23909
+Bromley,out,24382
+Camden,in,40538
+Camden,out,38495
+Croydon,in,35185
+Croydon,out,35074
+Ealing,in,40486
+Ealing,out,42896
+Enfield,in,27720
+Enfield,out,29479
+Greenwich,in,31292
+Greenwich,out,31866
+Hackney,in,33495
+Hackney,out,35026
+Hammersmith and Fulham,in,30540
+Hammersmith and Fulham,out,31995
+Haringey,in,36029
+Haringey,out,38940
+Harrow,in,26099
+Harrow,out,26725
+Havering,in,18214
+Havering,out,17276
+Hillingdon,in,31323
+Hillingdon,out,30445
+Hounslow,in,30776
+Hounslow,out,31404
+Islington,in,39954
+Islington,out,38073
+Kensington and Chelsea,in,20325
+Kensington and Chelsea,out,21747
+Kingston upon Thames,in,19180
+Kingston upon Thames,out,18868
+Lambeth,in,51116
+Lambeth,out,51840
+Lewisham,in,35606
+Lewisham,out,36184
+Merton,in,24395
+Merton,out,25959
+Newham,in,47374
+Newham,out,47625
+Redbridge,in,31390
+Redbridge,out,32756
+Richmond upon Thames,in,19472
+Richmond upon Thames,out,19992
+Southwark,in,46772
+Southwark,out,46138
+Sutton,in,16043
+Sutton,out,15080
+Tower Hamlets,in,49129
+Tower Hamlets,out,45937
+Waltham Forest,in,30317
+Waltham Forest,out,32437
+Wandsworth,in,53109
+Wandsworth,out,51780
+Westminster,in,34868
+Westminster,out,36119
